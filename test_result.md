@@ -228,11 +228,9 @@ metadata:
 
 test_plan:
   current_focus:
-    - "AI Crime Prediction API"
-    - "OpenAI Integration"
-  stuck_tasks:
-    - "AI Crime Prediction API"
-    - "OpenAI Integration"
+    - "Crime Report CRUD API"
+    - "Crime Statistics API"
+  stuck_tasks: []
   test_all: false
   test_priority: "high_first"
 
