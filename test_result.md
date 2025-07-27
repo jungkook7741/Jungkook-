@@ -222,11 +222,11 @@ metadata:
 
 test_plan:
   current_focus:
-    - "Crime Report CRUD API"
     - "AI Crime Prediction API"
     - "OpenAI Integration"
-    - "Crime Statistics API"
-  stuck_tasks: []
+  stuck_tasks:
+    - "AI Crime Prediction API"
+    - "OpenAI Integration"
   test_all: false
   test_priority: "high_first"
 
